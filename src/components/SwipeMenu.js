@@ -103,7 +103,7 @@ const SwipeMenu = () => {
 
         <List
           component="nav"
-          className={"pinkLists"}
+          className={"tealLists"}
           onClick={() => setMenuOpen(false)}
         >
           <ListItem button component={Link} to="/settings">
