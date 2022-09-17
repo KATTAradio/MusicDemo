@@ -48,7 +48,7 @@ const ContributorsPage = () => {
       <Grid container justify="center">
         <Grid
           component={Link}
-          href="https://github.com/shivamjoker"
+          href="https://www.instagram.com/sidhujashanjot/"
           target="blank"
           container
           direction="column"
@@ -58,10 +58,10 @@ const ContributorsPage = () => {
         >
           <Avatar
             className={classes.avatar}
-            src="https://avatars2.githubusercontent.com/u/23727670?s=300"
+            src="https://avatars.githubusercontent.com/u/69394942?v=300"
           />
-          <Typography variant="h5">Shivam</Typography>
-          <Typography>Creator of Ylight Music</Typography>
+          <Typography variant="h5">Jashan</Typography>
+          <Typography>Creator of Jashan Music</Typography>
         </Grid>
 
         <Grid
