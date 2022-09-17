@@ -122,7 +122,7 @@ const SwipeMenu = () => {
             <ListItemIcon>
               <FreeBreakfast />
             </ListItemIcon>
-            <ListItemText primary="Donate & Support" />
+            <ListItemText primary="Desi World Radio" />
           </ListItem>
           <ListItem button component={Link} to="/contributors">
             <ListItemIcon>
@@ -134,7 +134,7 @@ const SwipeMenu = () => {
             button
             component={MaterialLink}
             target="blank"
-            href="https://instagram.com/sihdujashanjot"
+            href="https://instagram.com/sidhujashanjot"
           >
             <ListItemIcon>
               <svg
