@@ -116,7 +116,7 @@ const SwipeMenu = () => {
             button
             component={MaterialLink}
             target="blank"
-            href="https://instagram.com/sidhujashanjot"
+            href="https://pollywoodwale.com/"
           >
             <ListItemIcon>
               <svg
@@ -124,7 +124,7 @@ const SwipeMenu = () => {
                 aria-hidden="true"
                 focusable="false"
                 data-prefix="fab"
-                data-icon="github"
+                data-icon="website"
                 role="img"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 496 512"
