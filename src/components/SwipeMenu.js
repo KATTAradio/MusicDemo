@@ -128,7 +128,7 @@ const SwipeMenu = () => {
             <ListItemIcon>
               <People />
             </ListItemIcon>
-            <ListItemText primary="Contributors" />
+            <ListItemText primary="Creator" />
           </ListItem>
           <ListItem
             button
