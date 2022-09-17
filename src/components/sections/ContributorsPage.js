@@ -64,42 +64,22 @@ const ContributorsPage = () => {
           <Typography>Creator of Jashan Music</Typography>
         </Grid>
 
-        <Grid
-          container
-          direction="column"
-          alignItems="center"
-          className={classes.avatatContainer}
-          component={Link}
-          href="https://github.com/bushblade"
-          target="blank"
-          color="inherit"
-        >
-          <Avatar
-            className={classes.avatar}
-            src="https://avatars2.githubusercontent.com/u/21976188?s=300"
-          />
-          <Typography variant="h5">Will Adams</Typography>
-          <Typography>Helped in writing code</Typography>
-        </Grid>
+        
         <Divider className={classes.divider} />
-        <Typography variant="h5">Other Contributors</Typography>
+        <Typography variant="h5">Languages used</Typography>
 
         <Grid container className={classes.miniContainer}>
           <Grid container alignItems="center">
-            <Avatar>R</Avatar>
-            <Typography variant="h6">Razvan</Typography>
-          </Grid>
-          <Grid container alignItems="center">
-            <Avatar>S</Avatar>
-            <Typography variant="h6">Shantanu</Typography>
+            <Avatar>N</Avatar>
+            <Typography variant="h6">Nodejs</Typography>
           </Grid>
           <Grid container alignItems="center">
             <Avatar>P</Avatar>
-            <Typography variant="h6">Piyush</Typography>
+            <Typography variant="h6">Php</Typography>
           </Grid>
           <Grid container alignItems="center">
-            <Avatar>Z</Avatar>
-            <Typography variant="h6">Zaid</Typography>
+            <Avatar>P</Avatar>
+            <Typography variant="h6">Python</Typography>
           </Grid>
         </Grid>
       </Grid>
