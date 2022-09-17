@@ -14,7 +14,7 @@ const PrivacyPage = () => {
       <br />
       <section>
         <Typography gutterBottom={true} variant="subtitle1">
-          Shivam built the Ylight app as an Open Source app. This SERVICE is
+          Jashan built the Jashan Music app as an Open Source app. This SERVICE is
           provided by Shivam at no cost and is intended for use as is.
           <br />
           This page is used to inform visitors regarding my policies with the
@@ -70,8 +70,8 @@ const PrivacyPage = () => {
         <Typography gutterBottom={true}>
           If you have any questions or suggestions about my Privacy Policy, do
           not hesitate to contact me at{" "}
-          <Link href="mailto:singhshivamkr@gmail.com" target="self">
-            singhshivamkr@gmail.com
+          <Link href="https://t.me/itssidhu" target="self">
+            TELEGRAM
           </Link>
         </Typography>
       </section>
